@@ -2076,7 +2076,7 @@ html.no-csstransitions .hero-content {
   background-color: #ffffff;
   padding: .6rem 1.2rem;
   opacity: 0;
-  visibility: hidden;
+  visibility: visible;
   -webkit-transform: translate3d(-100%, 0, 0);
   transform: translate3d(-100%, 0, 0);
   -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
