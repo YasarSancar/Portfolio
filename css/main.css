@@ -2069,8 +2069,24 @@ html.no-csstransitions .hero-content {
   display: block;
   /* font-family: "Gothic A1", sans-serif; */
   font-family: 'Roboto Mono', monospace;
-  font-size: 1.4rem;
-  margin-bottom: 0;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  color: #000000;
+  background-color: #ffffff;
+  padding: .6rem 1.2rem;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transform: translate3d(-100%, 0, 0);
+  transform: translate3d(-100%, 0, 0);
+  -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+  position: absolute;
+  /* top: 0rem; */
+  top: 3.9rem;
+  /* left: 3rem; */
+  left: 0rem;
+  right: 0rem;
 }
 
 .folio-item__cat {
