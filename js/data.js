@@ -55,7 +55,8 @@ const data = {
             title: "Kieran Animation",
             //githubLink: "#",
             //projectLink: "#",
-            videoLink: "images/portfolio/Kieran_Anim.webm"
+            videoLink: "images/portfolio/Kieran_Anim.webm",
+            hqLink: "images/portfolio/Kieran_Anim.webm"
         }
     ]
 }
