@@ -1,10 +1,10 @@
 const data = {
     portfolios: [
         {
-            techStack: "#",
+            //techStack: "#",
             title: "Prison Dungeon",
-            githubLink: "#",
-            projectLink: "#",
+            //githubLink: "#",
+            //projectLink: "#",
             imgLink: "images/portfolio/preview/Prison_Dungeon.webp",
             hqLink: "images/portfolio/Prison_Dungeon.png",
             panoLink: "images/portfolio/pano/Prison_Dungeon_Panorama.png",
@@ -18,43 +18,43 @@ const data = {
             }
         },
         {
-            techStack: "#",
+            //techStack: "#",
             title: "Sunset Forest",
-            githubLink: "#",
-            projectLink: "#",
+            //githubLink: "#",
+            //projectLink: "#",
             imgLink: "images/portfolio/preview/Sunset_Forest.webp",
             hqLink: "images/portfolio/Sunset_Forest.png",
             panoLink: "images/portfolio/pano/Sunset_Forest_Panorama.png"
         },
         {
-            techStack: "#",
+            //techStack: "#",
             title: "Forest Day",
-            githubLink: "#",
-            projectLink: "#",
+            //githubLink: "#",
+            //projectLink: "#",
             imgLink: "images/portfolio/preview/Forest_Day.webp",
             hqLink: "images/portfolio/Forest_Day.png"
         },
         {
-            techStack: "#",
+            //techStack: "#",
             title: "Campfire Night",
-            githubLink: "#",
-            projectLink: "#",
+            //githubLink: "#",
+            //projectLink: "#",
             imgLink: "images/portfolio/preview/Campfire_Night.webp",
             hqLink: "images/portfolio/Campfire_Night.png"
         },
         {
-            techStack: "#",
+            //techStack: "#",
             title: "Crystal Cave",
-            githubLink: "#",
-            projectLink: "#",
+            //githubLink: "#",
+            //projectLink: "#",
             imgLink: "images/portfolio/preview/Crystal_Cave.webp",
             hqLink: "images/portfolio/Crystal_Cave.png"
         },
         {
-            techStack: "#",
+            //techStack: "#",
             title: "Kieran Animation",
-            githubLink: "#",
-            projectLink: "#",
+            //githubLink: "#",
+            //projectLink: "#",
             videoLink: "images/portfolio/Kieran_Anim.webm"
         }
     ]
