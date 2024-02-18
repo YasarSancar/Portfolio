@@ -1,7 +1,7 @@
 const data = {
     portfolios: [
         {
-            //techStack: "#",
+            techStack: "Scene was created with a mix of own assets/online available/bought assets",
             title: "Prison Dungeon",
             //githubLink: "#",
             //projectLink: "#",
@@ -18,7 +18,7 @@ const data = {
             }
         },
         {
-            //techStack: "#",
+            techStack: "Scene was created with a mix of own assets/online available/bought assets",
             title: "Sunset Forest",
             //githubLink: "#",
             //projectLink: "#",
@@ -27,7 +27,7 @@ const data = {
             panoLink: "images/portfolio/pano/Sunset_Forest_Panorama.png"
         },
         {
-            //techStack: "#",
+            techStack: "Scene was created with a mix of own assets/online available/bought assets",
             title: "Forest Day",
             //githubLink: "#",
             //projectLink: "#",
@@ -35,7 +35,7 @@ const data = {
             hqLink: "images/portfolio/Forest_Day.png"
         },
         {
-            //techStack: "#",
+            techStack: "Scene was created with a mix of own assets/online available/bought assets",
             title: "Campfire Night",
             //githubLink: "#",
             //projectLink: "#",
@@ -43,7 +43,7 @@ const data = {
             hqLink: "images/portfolio/Campfire_Night.png"
         },
         {
-            //techStack: "#",
+            techStack: "Scene was created with a mix of own assets/online available/bought assets",
             title: "Crystal Cave",
             //githubLink: "#",
             //projectLink: "#",
@@ -51,7 +51,7 @@ const data = {
             hqLink: "images/portfolio/Crystal_Cave.png"
         },
         {
-            //techStack: "#",
+            techStack: "Scene was created with a mix of own assets/online available/bought assets",
             title: "Kieran Animation",
             //githubLink: "#",
             //projectLink: "#",
