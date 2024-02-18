@@ -26,12 +26,12 @@ const data = {
             hqLink: "images/portfolio/Sunset_Forest.png",
             panoLink: "images/portfolio/pano/Sunset_Forest_Panorama.png",
             viewport: {
-                minYaw: -20,
-                maxYaw: 20,
+                minYaw: -45,
+                maxYaw: 45,
                 maxHfov: 75,
                 hfov: 65,
-                minPitch: -60,
-                maxPitch: 60,
+                minPitch: -30,
+                maxPitch: 30,
             }
         },
         {
