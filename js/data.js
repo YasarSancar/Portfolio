@@ -30,8 +30,8 @@ const data = {
                 maxYaw: 45,
                 maxHfov: 75,
                 hfov: 65,
-                minPitch: -30,
-                maxPitch: 30,
+                minPitch: -90,
+                maxPitch: 60,
             }
         },
         {
