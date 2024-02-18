@@ -1,7 +1,8 @@
 const data = {
     portfolios: [
         {
-            techStack: "Scene was created with a mix of own/online available/bought assets",
+            techStack: "Scene was created with a mix of own / online available / bought assets",
+            tag: "Uses Volumetrics, Dust Particles and Volumetric Lights",
             title: "Prison Dungeon",
             //githubLink: "#",
             //projectLink: "#",
@@ -18,7 +19,8 @@ const data = {
             }
         },
         {
-            techStack: "Scene was created with a mix of own/online available/bought assets",
+            techStack: "Scene was created with a mix of own / online available / bought assets",
+            tag: "Uses Volumetrics, Particle Instancing and God Rays",
             title: "Sunset Forest",
             //githubLink: "#",
             //projectLink: "#",
@@ -35,7 +37,8 @@ const data = {
             }
         },
         {
-            techStack: "Scene was created with a mix of own/online available/bought assets",
+            techStack: "Scene was created with a mix of own / online available / bought assets",
+            tag: "Uses Particle Instancing",
             title: "Forest Day",
             //githubLink: "#",
             //projectLink: "#",
@@ -43,7 +46,8 @@ const data = {
             hqLink: "images/portfolio/Forest_Day.png"
         },
         {
-            techStack: "Scene was created with a mix of own/online available/bought assets",
+            techStack: "Scene was created with a mix of own / online available / bought assets",
+            tag: "Uses OpenVBD and Mist",
             title: "Campfire Night",
             //githubLink: "#",
             //projectLink: "#",
@@ -51,7 +55,8 @@ const data = {
             hqLink: "images/portfolio/Campfire_Night.png"
         },
         {
-            techStack: "Scene was created with a mix of own/online available/bought assets",
+            techStack: "Scene was created with a mix of own / online available / bought assets",
+            tag: "Uses Refractions",
             title: "Crystal Cave",
             //githubLink: "#",
             //projectLink: "#",
@@ -59,7 +64,8 @@ const data = {
             hqLink: "images/portfolio/Crystal_Cave.png"
         },
         {
-            techStack: "Scene was created with a mix of own/online available/bought assets",
+            techStack: "Scene was created with a mix of own / online available / bought assets",
+            tag: "Uses Volumetrics and Emissions",
             title: "Kieran Animation",
             //githubLink: "#",
             //projectLink: "#",
