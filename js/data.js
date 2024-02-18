@@ -26,8 +26,8 @@ const data = {
             hqLink: "images/portfolio/Sunset_Forest.png",
             panoLink: "images/portfolio/pano/Sunset_Forest_Panorama.png",
             viewport: {
-                minYaw: -45,
-                maxYaw: 45,
+                minYaw: -35,
+                maxYaw: 65,
                 maxHfov: 75,
                 hfov: 65,
                 minPitch: -30,
