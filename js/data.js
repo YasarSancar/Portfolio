@@ -1,7 +1,7 @@
 const data = {
     portfolios: [
         {
-            techStack: "HTML, CSS, JS",
+            techStack: "#",
             title: "Prison Dungeon",
             githubLink: "#",
             projectLink: "#",
@@ -18,7 +18,7 @@ const data = {
             }
         },
         {
-            techStack: "HTML, CSS, JS",
+            techStack: "#",
             title: "Sunset Forest",
             githubLink: "#",
             projectLink: "#",
@@ -27,7 +27,7 @@ const data = {
             panoLink: "images/portfolio/pano/Sunset_Forest_Panorama.png"
         },
         {
-            techStack: "HTML, CSS, JS",
+            techStack: "#",
             title: "Forest Day",
             githubLink: "#",
             projectLink: "#",
@@ -35,7 +35,7 @@ const data = {
             hqLink: "images/portfolio/Forest_Day.png"
         },
         {
-            techStack: "HTML, CSS, JS",
+            techStack: "#",
             title: "Campfire Night",
             githubLink: "#",
             projectLink: "#",
@@ -43,7 +43,7 @@ const data = {
             hqLink: "images/portfolio/Campfire_Night.png"
         },
         {
-            techStack: "HTML, CSS, JS",
+            techStack: "#",
             title: "Crystal Cave",
             githubLink: "#",
             projectLink: "#",
@@ -51,7 +51,7 @@ const data = {
             hqLink: "images/portfolio/Crystal_Cave.png"
         },
         {
-            techStack: "HTML, CSS, JS",
+            techStack: "#",
             title: "Kieran Animation",
             githubLink: "#",
             projectLink: "#",
