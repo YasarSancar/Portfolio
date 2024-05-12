@@ -56,12 +56,12 @@ const data = {
         },
         {
             techStack: "Scene was created with a mix of own / online available / bought assets",
-            tag: "Uses Refractions",
-            title: "Crystal Cave",
+            tag: "Uses Refractions, Volumetrics, Fake Caustics",
+            title: "Crystal Cave *Updated 12.05.2024*",
             //githubLink: "#",
             //projectLink: "#",
-            imgLink: "images/portfolio/preview/Crystal_Cave.webp",
-            hqLink: "images/portfolio/Crystal_Cave.png"
+            imgLink: "images/portfolio/preview/Crystal_New.webp",
+            hqLink: "images/portfolio/Crystal_New.png"
         },
         {
             techStack: "Scene was created with a mix of own / online available / bought assets",
